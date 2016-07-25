@@ -1,3 +1,4 @@
 plugins/cordova-plugin*
 platforms/android
+platforms/browser
 platforms/ios
