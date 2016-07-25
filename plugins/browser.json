@@ -10,16 +10,10 @@
         "cordova-plugin-battery-status": {
             "PACKAGE_NAME": "net.offirmo.hello_world"
         },
-        "cordova-plugin-camera": {
-            "PACKAGE_NAME": "net.offirmo.hello_world"
-        },
         "cordova-plugin-media-capture": {
             "PACKAGE_NAME": "net.offirmo.hello_world"
         },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "net.offirmo.hello_world"
-        },
-        "cordova-plugin-contacts": {
             "PACKAGE_NAME": "net.offirmo.hello_world"
         },
         "cordova-plugin-device": {
@@ -37,9 +31,6 @@
         "cordova-plugin-file-transfer": {
             "PACKAGE_NAME": "net.offirmo.hello_world"
         },
-        "cordova-plugin-geolocation": {
-            "PACKAGE_NAME": "net.offirmo.hello_world"
-        },
         "cordova-plugin-globalization": {
             "PACKAGE_NAME": "net.offirmo.hello_world"
         },
@@ -47,9 +38,6 @@
             "PACKAGE_NAME": "net.offirmo.hello_world"
         },
         "cordova-plugin-media": {
-            "PACKAGE_NAME": "net.offirmo.hello_world"
-        },
-        "cordova-plugin-network-information": {
             "PACKAGE_NAME": "net.offirmo.hello_world"
         },
         "cordova-plugin-splashscreen": {

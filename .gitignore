@@ -1,4 +1,5 @@
-plugins/cordova-plugin*
+build
 platforms/android
 platforms/browser
 platforms/ios
+plugins/cordova-plugin*
