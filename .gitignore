@@ -1,0 +1,3 @@
+plugins/cordova-plugin*
+platforms/android
+platforms/ios
